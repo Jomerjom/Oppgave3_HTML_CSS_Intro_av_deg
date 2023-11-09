@@ -13,7 +13,8 @@ en unordered list med tre eller flere list items (dine interesser)
 
  
 Disse taggene skal brukes:
-<h1> <p> <h2> <ul> <li> <main> <div> <section>. (Bruk andre tags i tillegg om det gir mening å gjøre det for din besvarelse)
+
+h1 p h2 ul li main div section. (Bruk andre tags i tillegg om det gir mening å gjøre det for din besvarelse)
 
 Style dette med css (bruk css filen, men du får lov til å bruke inline styling også) som du vil. Ingen krav til hvordan du gjør dette, men prøv å få det til å se greit pent ut.
 

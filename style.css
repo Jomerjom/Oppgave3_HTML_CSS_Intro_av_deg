@@ -2,5 +2,51 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
+body {
+    background-color: #27374D
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.introduksjon {
+    width: 380px;
+}
+
+h1{ 
+    color: #DDE6ED;
+}
+
+p {
+    color: #9DB2BF;
+}
+
+
+.interesser {
+    width: 380px;
+}
+
+h2 {
+    color: #DDE6ED;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    color: #9DB2BF;
+}
+
+li {
+    padding-right: 5px;
+}
